@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 		
 		//	  梅花
 		//	  【宋】王安石
-		//墙角数枝梅。不知你爱谁。
-		//要是你不说，就是那凤姐。
+		//墙角数枝梅。凌寒独自开。
+		//遥知不是雪，为有暗香来。
     }
 }
